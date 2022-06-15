@@ -1,3 +1,7 @@
+/* 
+* Author: Rodrigo Rebelo da Costa
+*/
+
 package teste;
 
 import java.util.Scanner;
